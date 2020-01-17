@@ -13,15 +13,12 @@ div#wall div#tag-3.slick, .wicked {
   display: none;
 }
 
-#tag-4 {
-  display: none;
-}
 
 #wall .parent #tag-4 {
   display: none;
 }
 
-#wall .parent #tag-1.slick {
+#wall .parent #tag-5.slick {
   display: none;
 }
 
